@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class MyApplication {
     public static void main(String[] args) {
-        // Test your implementation here
+
         Scanner scanner = new Scanner(System.in);
 
         ArrayList<Point> points = new ArrayList<>();
